@@ -1,0 +1,76 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Visualizaciones HTML</title>
+        <style>
+          body {
+            margin: 0;
+            padding: 0;
+            overflow: auto; /* Permite desplazamiento */
+          }
+          .container {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr); /* Dos columnas */
+            gap: 160px 160px; /* Espacio entre columnas y filas */
+            padding: 20px;
+            box-sizing: border-box;
+            max-width: 100vw; /* Evita que la cuadrícula exceda el ancho de la ventana */
+          }
+          .model {
+            width: 100%;
+            height: 400px; /* Ajusta la altura según tus necesidades */
+            text-align: center;
+            border: 1px solid #ddd;
+            box-sizing: border-box;
+          }
+          .model iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+          }
+        </style>
+    </head>
+    <body>
+      <div class="container">
+  
+      <div class="model">
+        <h3>clavicle_min1</h3>
+        <iframe src="clavicle_min1.html" allowfullscreen></iframe>
+      </div>
+    
+        <div class="model">
+          <h3>clavicle_max1</h3>
+          <iframe src="clavicle_max1.html" allowfullscreen></iframe>
+        </div>
+    
+      <div class="model">
+        <h3>scapulaAC_min1</h3>
+        <iframe src="scapulaAC_min1.html" allowfullscreen></iframe>
+      </div>
+    
+        <div class="model">
+          <h3>scapulaAC_max1</h3>
+          <iframe src="scapulaAC_max1.html" allowfullscreen></iframe>
+        </div>
+    
+      <div class="model">
+        <h3>scapulaBS_min1</h3>
+        <iframe src="scapulaBS_min1.html" allowfullscreen></iframe>
+      </div>
+    
+        <div class="model">
+          <h3>scapulaBS_max1</h3>
+          <iframe src="scapulaBS_max1.html" allowfullscreen></iframe>
+        </div>
+    
+      <div class="model">
+        <h3>scapulaG_min1</h3>
+        <iframe src="scapulaG_min1.html" allowfullscreen></iframe>
+      </div>
+    
+        <div class="model">
+          <h3>scapulaG_max1</h3>
+          <iframe src="scapulaG_max1.html" allowfullscreen></iframe>
+        </div>
+    </div></body></html>

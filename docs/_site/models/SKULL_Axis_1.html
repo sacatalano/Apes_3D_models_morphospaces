@@ -1,0 +1,86 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Visualizaciones HTML</title>
+        <style>
+          body {
+            margin: 0;
+            padding: 0;
+            overflow: auto; /* Permite desplazamiento */
+          }
+          .container {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr); /* Dos columnas */
+            gap: 160px 160px; /* Espacio entre columnas y filas */
+            padding: 20px;
+            box-sizing: border-box;
+            max-width: 100vw; /* Evita que la cuadrícula exceda el ancho de la ventana */
+          }
+          .model {
+            width: 100%;
+            height: 400px; /* Ajusta la altura según tus necesidades */
+            text-align: center;
+            border: 1px solid #ddd;
+            box-sizing: border-box;
+          }
+          .model iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+          }
+        </style>
+    </head>
+    <body>
+      <div class="container">
+  
+      <div class="model">
+        <h3>craniumBC_min1</h3>
+        <iframe src="craniumBC_min1.html" allowfullscreen></iframe>
+      </div>
+    
+        <div class="model">
+          <h3>craniumBC_max1</h3>
+          <iframe src="craniumBC_max1.html" allowfullscreen></iframe>
+        </div>
+    
+      <div class="model">
+        <h3>craniumC_min1</h3>
+        <iframe src="craniumC_min1.html" allowfullscreen></iframe>
+      </div>
+    
+        <div class="model">
+          <h3>craniumC_max1</h3>
+          <iframe src="craniumC_max1.html" allowfullscreen></iframe>
+        </div>
+    
+      <div class="model">
+        <h3>craniumF_min1</h3>
+        <iframe src="craniumF_min1.html" allowfullscreen></iframe>
+      </div>
+    
+        <div class="model">
+          <h3>craniumF_max1</h3>
+          <iframe src="craniumF_max1.html" allowfullscreen></iframe>
+        </div>
+    
+      <div class="model">
+        <h3>mandibleCO_min1</h3>
+        <iframe src="mandibleCO_min1.html" allowfullscreen></iframe>
+      </div>
+    
+        <div class="model">
+          <h3>mandibleCO_max1</h3>
+          <iframe src="mandibleCO_max1.html" allowfullscreen></iframe>
+        </div>
+    
+      <div class="model">
+        <h3>mandibleRA_min1</h3>
+        <iframe src="mandibleRA_min1.html" allowfullscreen></iframe>
+      </div>
+    
+        <div class="model">
+          <h3>mandibleRA_max1</h3>
+          <iframe src="mandibleRA_max1.html" allowfullscreen></iframe>
+        </div>
+    </div></body></html>

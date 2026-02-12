@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Skull5 partitions\nColumn10 partitions\nShoulder4 partitions\nPelvic3 partitions\nArm9 partitions\nLeg6 partitions\nHand10 partitions\nFoot16 partitions"
+  },
+  {
+    "objectID": "region_pages/Arm.html",
+    "href": "region_pages/Arm.html",
+    "title": "Arm (9 partitions)",
+    "section": "",
+    "text": "Jump to partition\n  humerusD · humerusP · humerusS · radiusD · radiusP · radiusS · ulnaD · ulnaP · ulnaS\n\n\n\n\n\n\n  Viewer\n\n  \n    \n      MIN (left)\n      \n      \n    \n\n    \n      MAX (right)\n      \n      \n    \n  \n\n  \n  \n    Tip: this uses two WebGL widgets at once (MIN+MAX). If your machine struggles, we can switch to a single viewer with a toggle.\n  \n\n\n\n\n  Partitions\nhumerusDAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\nhumerusPAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\nhumerusSAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\nradiusDAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\nradiusPAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\nradiusSAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\nulnaDAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\nulnaPAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\nulnaSAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis."
+  },
+  {
+    "objectID": "region_pages/Column.html",
+    "href": "region_pages/Column.html",
+    "title": "Column (10 partitions)",
+    "section": "",
+    "text": "Jump to partition\n  C1 · c2A · c2B · c5A · c5B · lumbarA · lumbarB · rib1 · thoracicA · thoracicB\n\n\n\n\n\n\n  Viewer\n\n  \n    \n      MIN (left)\n      \n      \n    \n\n    \n      MAX (right)\n      \n      \n    \n  \n\n  \n  \n    Tip: this uses two WebGL widgets at once (MIN+MAX). If your machine struggles, we can switch to a single viewer with a toggle.\n  \n\n\n\n\n  Partitions\nC1Axis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\nc2AAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\nc2BAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\nc5AAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\nc5BAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\nlumbarAAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\nlumbarBAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\nrib1Axis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\nthoracicAAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\nthoracicBAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis."
+  },
+  {
+    "objectID": "region_pages/Foot.html",
+    "href": "region_pages/Foot.html",
+    "title": "Foot (16 partitions)",
+    "section": "",
+    "text": "Jump to partition\n  calcaneus · cuboid · cuneiform1 · cuneiform2 · cuneiform3 · mt1D · mt1P · mt1S · mt3D · mt3P · mt3S · navicular · pPP1D · pPP1P · pPP1S · talus\n\n\n\n\n\n\n  Viewer\n\n  \n    \n      MIN (left)\n      \n      \n    \n\n    \n      MAX (right)\n      \n      \n    \n  \n\n  \n  \n    Tip: this uses two WebGL widgets at once (MIN+MAX). If your machine struggles, we can switch to a single viewer with a toggle.\n  \n\n\n\n\n  Partitions\ncalcaneusAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\ncuboidAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\ncuneiform1Axis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\ncuneiform2Axis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\ncuneiform3Axis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\nmt1DAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\nmt1PAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\nmt1SAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\nmt3DAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\nmt3PAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\nmt3SAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\nnavicularAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\npPP1DAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\npPP1PAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\npPP1SAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\ntalusAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis."
+  },
+  {
+    "objectID": "region_pages/Hand.html",
+    "href": "region_pages/Hand.html",
+    "title": "Hand (10 partitions)",
+    "section": "",
+    "text": "Jump to partition\n  capitate · hamate · lunate · mc3D · mc3P · mc3S · scaphoid · trapezium · trapezoid · triquetrum\n\n\n\n\n\n\n  Viewer\n\n  \n    \n      MIN (left)\n      \n      \n    \n\n    \n      MAX (right)\n      \n      \n    \n  \n\n  \n  \n    Tip: this uses two WebGL widgets at once (MIN+MAX). If your machine struggles, we can switch to a single viewer with a toggle.\n  \n\n\n\n\n  Partitions\ncapitateAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\nhamateAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\nlunateAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\nmc3DAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\nmc3PAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\nmc3SAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\nscaphoidAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\ntrapeziumAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\ntrapezoidAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\ntriquetrumAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis."
+  },
+  {
+    "objectID": "region_pages/Leg.html",
+    "href": "region_pages/Leg.html",
+    "title": "Leg (6 partitions)",
+    "section": "",
+    "text": "Jump to partition\n  femurD · femurP · femurS · tibiaD · tibiaP · tibiaS\n\n\n\n\n\n\n  Viewer\n\n  \n    \n      MIN (left)\n      \n      \n    \n\n    \n      MAX (right)\n      \n      \n    \n  \n\n  \n  \n    Tip: this uses two WebGL widgets at once (MIN+MAX). If your machine struggles, we can switch to a single viewer with a toggle.\n  \n\n\n\n\n  Partitions\nfemurDAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\nfemurPAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\nfemurSAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\ntibiaDAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\ntibiaPAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\ntibiaSAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis."
+  },
+  {
+    "objectID": "region_pages/Pelvic.html",
+    "href": "region_pages/Pelvic.html",
+    "title": "Pelvic (3 partitions)",
+    "section": "",
+    "text": "Jump to partition\n  pelvisA · pelvisISP · pelvisIl\n\n\n\n\n\n\n  Viewer\n\n  \n    \n      MIN (left)\n      \n      \n    \n\n    \n      MAX (right)\n      \n      \n    \n  \n\n  \n  \n    Tip: this uses two WebGL widgets at once (MIN+MAX). If your machine struggles, we can switch to a single viewer with a toggle.\n  \n\n\n\n\n  Partitions\npelvisAAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\npelvisISPAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\npelvisIlAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis."
+  },
+  {
+    "objectID": "region_pages/Shoulder.html",
+    "href": "region_pages/Shoulder.html",
+    "title": "Shoulder (4 partitions)",
+    "section": "",
+    "text": "Jump to partition\n  clavicle · scapulaAC · scapulaBS · scapulaG\n\n\n\n\n\n\n  Viewer\n\n  \n    \n      MIN (left)\n      \n      \n    \n\n    \n      MAX (right)\n      \n      \n    \n  \n\n  \n  \n    Tip: this uses two WebGL widgets at once (MIN+MAX). If your machine struggles, we can switch to a single viewer with a toggle.\n  \n\n\n\n\n  Partitions\nclavicleAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\nscapulaACAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\nscapulaBSAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\nscapulaGAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis."
+  },
+  {
+    "objectID": "region_pages/Skull.html",
+    "href": "region_pages/Skull.html",
+    "title": "Skull (5 partitions)",
+    "section": "",
+    "text": "Jump to partition\n  craniumBC · craniumC · craniumF · mandibleCO · mandibleRA\n\n\n\n\n\n\n  Viewer\n\n  \n    \n      MIN (left)\n      \n      \n    \n\n    \n      MAX (right)\n      \n      \n    \n  \n\n  \n  \n    Tip: this uses two WebGL widgets at once (MIN+MAX). If your machine struggles, we can switch to a single viewer with a toggle.\n  \n\n\n\n\n  Partitions\ncraniumBCAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\ncraniumCAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\ncraniumFAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\nmandibleCOAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis.\n\nmandibleRAAxis 1Axis 2Axis 3Loads MIN (left) and MAX (right) for the selected axis."
+  }
+]
