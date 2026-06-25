@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Anthropoid Skeletal Morphospace 3D Shape Changes - Home</title>
+<title>Skeletal Shape Deformations - Home</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -70,7 +70,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">Anthropoid_Skeletal_Morphospace_3D_Shape_Changes</span>
+    <span class="navbar-title">Skeletal Shape Deformations</span>
     </a>
   </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
@@ -80,31 +80,31 @@ ul.task-list li input[type="checkbox"] {
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link active" href="./index.html" aria-current="page">Home</a>
-  </li>  
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="./region_pages/Skull.html">Skull</a>
-  </li>  
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="./region_pages/Column.html">Column</a>
-  </li>  
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="./region_pages/Shoulder.html">Shoulder</a>
-  </li>  
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="./region_pages/Pelvic.html">Pelvic</a>
-  </li>  
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="./region_pages/Arm.html">Arm</a>
-  </li>  
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="./region_pages/Leg.html">Leg</a>
-  </li>  
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="./region_pages/Hand.html">Hand</a>
-  </li>  
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="./region_pages/Foot.html">Foot</a>
-  </li>  
+  </li>
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
           </div> <!-- /navcollapse -->
@@ -116,7 +116,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+
     </div>
 <!-- main -->
 <main class="content column-page" id="quarto-document-content">
@@ -130,16 +130,16 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-title-meta">
 
-    
-    
+
+
   </div>
-  
+
 
 </header>
 
 <div style="margin-bottom:10px;">
-This site organises 3D warped models of each bony partition by skeletal region. 
-Within each region page, choose a bony partition and an axis to view MIN (left) and MAX (right) simultaneously
+This site organizes interactive 3D deformation models by anatomical region.
+Within each region page, choose a partition and an axis to view MIN (left) and MAX (right) simultaneously.
 </div>
 
 <div class="homegrid">
@@ -153,12 +153,18 @@ Within each region page, choose a bony partition and an axis to view MIN (left) 
 <div class="homecard"><div class="hname"><a href="./region_pages/Foot.html">Foot</a></div><div class="hcount">16 partitions</div></div>
 </div>
 
+<div class="home-figure">
+  <img src="Figure2 morphospaces sexavgF-partitions SHAPES ONLY 2026-2-13.png" alt="Shapes morphospaces and percentage contribution of skeletal partitions">
+</div>
+
 <style>
 .homegrid { display:grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap:14px; }
 .homecard { border:1px solid #e5e5e5; border-radius:14px; padding:14px; background:#fff; }
 .hname { font-weight:700; font-size:1.05em; margin-bottom:4px; }
 .hname a { text-decoration:none; }
 .hcount { color:#666; }
+.home-figure { margin-top:28px; text-align:center; }
+.home-figure img { max-width:100%; height:auto; }
 </style>
 
 
@@ -183,7 +189,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       toggleBodyColorMode(bsSheetEl);
     }
   }
-  toggleBodyColorPrimary();  
+  toggleBodyColorPrimary();
   const icon = "";
   const anchorJS = new window.AnchorJS();
   anchorJS.options = {
@@ -227,7 +233,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       theme: 'quarto',
       placement: 'bottom-start'
     };
-    window.tippy(el, config); 
+    window.tippy(el, config);
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
   for (var i=0; i<noterefs.length; i++) {
